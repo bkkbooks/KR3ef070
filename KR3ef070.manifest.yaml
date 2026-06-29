@@ -1,0 +1,116 @@
+canonical_identifier: bkk:krp/KR3ef070/v1
+canonical_location: https://kanripo.org/bkk/KR3ef070/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 傷寒論陽明病釋
+  identifiers:
+    krp: KR3ef070
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef070.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3ef070_000.yaml, hash: 'sha256:8155594527cd0551eb62556020a64fee3c43d3fa516e112d75fc14e8452d7c45'}
+  - {seq: 1, filename: KR3ef070_001.yaml, hash: 'sha256:76fff682dbdba9de5c2dac7017a9bd0c6b8781c28d35c2af88eabf36840ee493'}
+  - {seq: 2, filename: KR3ef070_002.yaml, hash: 'sha256:12c06e066f263da34bab7b5f2ca76620099a10bba9bdd119c9ba0a21900f7892'}
+  - {seq: 3, filename: KR3ef070_003.yaml, hash: 'sha256:3fc88dc10f518f08e9daea7b91522cfb920a4071e8aeca04acc2798e7f76b861'}
+  - {seq: 4, filename: KR3ef070_004.yaml, hash: 'sha256:4249332d3f1ac9eb2eb880673e94cd2bfd36f4cd23bd7169e859da6c01d8d4e6'}
+  - {seq: 0, filename: KR3ef070_000.yaml, hash: 'sha256:8155594527cd0551eb62556020a64fee3c43d3fa516e112d75fc14e8452d7c45'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ef070_000.markers.yaml, hash: 'sha256:fbae433a271e4e8a51c57bddd545375db39e7f395c8a62355552097040440f05'}
+  - {seq: 1, role: markers, filename: assets/KR3ef070_001.markers.yaml, hash: 'sha256:94d00b7f5e3107106a2bfbccac79a9fd76680c1a6fcaf8657289ca89bf8b6242'}
+  - {seq: 2, role: markers, filename: assets/KR3ef070_002.markers.yaml, hash: 'sha256:7e3c42d86b9faf38bb62790599f254e2dda1a354f7cdb654789fb6446691aefc'}
+  - {seq: 3, role: markers, filename: assets/KR3ef070_003.markers.yaml, hash: 'sha256:643e639843c1818b641446c366a0b79f74b61a708ec5b2f9b308c1f52cae066d'}
+  - {seq: 4, role: markers, filename: assets/KR3ef070_004.markers.yaml, hash: 'sha256:274129f847bf884946e0c10269c5ee99731f0270644002e40d4e1bfe0ee1f61e'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ef070_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 343
+  label: 傷寒論陽明病釋小引
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef070_jc_001-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4435
+  label: 卷一傷寒論陽明病釋一
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3ef070_jc_002-d4.h1s1
+    span:
+    - body
+    - 0
+    - 5002
+  label: 卷二傷寒論陽明病釋二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef070_jc_003-d5.h1s1
+    span:
+    - body
+    - 0
+    - 4358
+  label: 卷三傷寒論陽明病釋三
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef070_jc_004-d6.h1s1
+    span:
+    - body
+    - 0
+    - 4582
+  label: 卷四傷寒論陽明病釋四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3ef070_jc_004-d6d2
+    span:
+    - body
+    - 10
+    - 4582
+  label: 陽明腑病集釋
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ef070_jc_000-d7.h1s1
+    span:
+    - body
+    - 0
+    - 876
+  label: 附陽明餘論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ef070_jc_000-d8.h1s1
+    span:
+    - body
+    - 876
+    - 1205
+  label: 跋
+  type: section
+  level: 1
+hash: sha256:b3f39c14e0d03b06b12285cb2060495ed8896b5cd1d551c89a40ec6f1e65f12e
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
